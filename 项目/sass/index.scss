@@ -47,13 +47,15 @@
 
 .nav2{
     .img1{height:380px;width:100%;overflow:hidden;}
-    .n1{width:200px;height:380px;background:rgba(200,200,200,.8);position:absolute;left:159px;;top:225px;
-        a{height:40px;display: block;font:15px/40px "";color:#fff;}
-        img{margin-left:22px;}
-        a:hover{background: pink;}
+    .n1{width:200px;height:380px;position: absolute;top:225px;background:rgba(200,200,200,.6);
+        ul{
+           li{width:200px;height:41px;} 
+           img{margin:0 5px 0 20px;}
+           a{font: 15px/40px "";color:#333;}
+        }
     }
-
 }
+
 .main{height:91px;background:#f3f3f3;
     h3{font:24px/35px "";padding-top:21px;}
     span{margin-top:5px;font:9px/19px "";display: inline-block;width:100px;}

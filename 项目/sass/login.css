@@ -147,128 +147,82 @@
   background: #00bbd7;
 }
 
-.nav2 .img1 {
-  height: 380px;
+.img .img1 {
   width: 100%;
-  overflow: hidden;
+  height: 600px;
 }
 
-.nav2 .n1 {
-  width: 200px;
-  height: 380px;
+.img .dl {
+  width: 350px;
+  height: 448px;
+  background: #fff;
   position: absolute;
-  top: 225px;
-  background: rgba(200, 200, 200, 0.6);
+  top: 310px;
+  right: 330px;
+  padding-left: 30px;
 }
 
-.nav2 .n1 ul li {
-  width: 200px;
-  height: 41px;
+.img .dl h3 {
+  width: 350px;
+  height: 40px;
+  font-size: 18px;
+  margin-top: 20px;
 }
 
-.nav2 .n1 ul img {
-  margin: 0 5px 0 20px;
+.img .dl div {
+  width: 300px;
+  height: 42px;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
 }
 
-.nav2 .n1 ul a {
-  font: 15px/40px "";
-  color: #333;
+.img .dl div img {
+  width: 42px;
+  height: 42px;
 }
 
-.main {
-  height: 91px;
-  background: #f3f3f3;
-}
-
-.main h3 {
-  font: 24px/35px "";
-  padding-top: 21px;
-}
-
-.main span {
-  margin-top: 5px;
-  font: 9px/19px "";
-  display: inline-block;
-  width: 100px;
-}
-
-.main .m1 {
+.img .dl div input {
+  width: 253px;
+  height: 38px;
   float: right;
-  font-size: 14px;
 }
 
-.main .m1 a {
-  margin-left: 40px;
+.img .dl .input1 {
+  width: 120px;
+  height: 42px;
 }
 
-.main .m1 a:hover {
-  color: #00bbd7;
-}
-
-.goods {
-  height: 750px;
-  background: #f3f3f3;
-}
-
-.goods ul {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-.goods ul li {
-  width: 290px;
-  height: 370px;
-  background: #fff;
-  margin-bottom: 9px;
-}
-
-.main1 {
-  height: 91px;
-  background: #f3f3f3;
-}
-
-.main1 h3 {
-  font: 24px/35px "";
-  padding-top: 21px;
-}
-
-.main1 span {
-  margin-top: 5px;
-  font: 9px/19px "";
+.img .dl i {
   display: inline-block;
-  width: 100px;
+  width: 63px;
+  height: 21px;
+  border: 1px solid #ccc;
 }
 
-.main1 .m2 {
-  float: right;
-  font-size: 14px;
+.img .dl .div1 {
+  border: none;
+  margin-top: 20px;
 }
 
-.main1 .m2 a {
-  margin-left: 40px;
+.img .dl .a1 {
+  display: block;
+  width: 300px;
+  height: 42px;
+  background: #00bbd7;
+  color: #fff;
+  font: 18px/42px "";
+  text-align: center;
+  border-radius: 5px;
+  margin-top: 20px;
 }
 
-.main1 .m2 a:hover {
+.img .dl .div2 {
+  border: none;
+  margin-top: 10px;
+}
+
+.img .dl .div2 a {
   color: #00bbd7;
-}
-
-.goods1 {
-  height: 550px;
-  background: #f3f3f3;
-}
-
-.goods1 ul {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-.goods1 ul li {
-  width: 290px;
-  height: 370px;
-  background: #fff;
-  margin-bottom: 9px;
 }
 
 .footer1 {

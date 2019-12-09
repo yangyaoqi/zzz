@@ -47,18 +47,20 @@
 
 .img{
     .img1{width:100%;height:600px;}
-    .dl{width:350px;height:358px;background:#fff;position: absolute;top:310px;right:330px;padding-left:30px;
-        h3{width:350px;height:40px;font-size:18px;}
+    .dl{width:350px;height:448px;background:#fff;position: absolute;top:310px;right:330px;padding-left:30px;
+        h3{width:350px;height:40px;font-size:18px;margin-top:20px;}
         div{width:300px;height:42px;border:1px solid #ccc;margin-bottom:20px;
             img{width:42px;height:42px;}
             input{width:253px;height:38px;float:right;}
-            
         }
+        .input1{width:120px;height:42px;}
+        i{display: inline-block;width:63px;height:21px;border:1px solid #ccc;}
+        .div1{border:none;margin-top:20px;}
+        .a1{display: block;width:300px;height:42px;background:#00bbd7;color:#fff;font:18px/42px "";text-align:center;border-radius: 5px;margin-top:20px;}
+        .div2{border:none;margin-top:10px;
         a{color:#00bbd7;}
-        .a1{width:300px;height:42px;background:#00bbd7;display:block;color:#fff;font:18px/42px "";text-align:center;border-radius: 5px;margin-top:20px;}
-        .a2{color:#00bbd7;font-size:14px;}
-        span{font-size:12px;}
-    }  
+        }
+    }
 }
 .footer1{height:145px;
     ul{float: left;
